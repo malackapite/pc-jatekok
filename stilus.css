@@ -53,6 +53,7 @@ article > p{
 }
 article > h1{
     font-size: 15pt;
+    /*túl kicsi volt a megadott méret, emiatt lecseréltem*/
     margin: 32px 16px;
 }
 article > img{
